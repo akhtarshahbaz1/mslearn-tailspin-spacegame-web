@@ -1,8 +1,8 @@
 trigger:
 - '*'
 pool:
-  name: 'Default'
-  
+  name: 'CICDPool'
+
 variables:
   buildConfiguration: 'Release'
 
